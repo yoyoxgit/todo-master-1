@@ -5,7 +5,7 @@ import 'package:provider/provider.dart';
 import 'package:to_do_app/core/setting_provider.dart';
 
 class ApplicationThemeManager{
-  static const Color primaryColor = Color(0xFF5D9CEC);
+  static const Color primaryColor = Color(0xFFEC945D);
   // var secondaryColor =
   // provider.isDark() ? const Color(0xFF141922) : Colors.white;
   // var textColor = provider.isDark() ? Colors.white : Colors.black;
