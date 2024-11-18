@@ -28,7 +28,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:906492867821:android:337a63a7a04b589e1748e4",
         "android_client_info": {
-          "package_name": "com.todo.masterapp"
+          "package_name": "com.example.to_do_app"
         }
       },
       "oauth_client": [],
